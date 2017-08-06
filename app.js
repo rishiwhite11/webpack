@@ -1,2 +1,2 @@
-document.write("Welcome to the concert");
-console.log("App loaded");
+document.write("Welcome to the concert!!");
+console.log("App is loaded in webpack");
